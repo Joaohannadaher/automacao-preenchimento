@@ -1,0 +1,22 @@
+# Sessão e credenciais
+.cookies.pkl
+.env
+
+# Logs gerados em execução
+logs/
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Configurações locais do editor
+.claude/
+
+# Scripts de debug e utilitários internos (uso interno, não publicar)
+debug_*.py
+listar_campos.py
